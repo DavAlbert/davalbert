@@ -1,7 +1,7 @@
 <div align="left">
 
-[![YouTube](https://img.shields.io/badge/garkolym-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Garkolym){:target="_blank"}
-[![Linkedin](https://img.shields.io/badge/david%20albert-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-albert-2b9b66167/){:target="_blank"}
+[![YouTube](https://img.shields.io/badge/garkolym-%23E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Garkolym)
+[![Linkedin](https://img.shields.io/badge/david%20albert-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-albert-2b9b66167/)
 
  
 </div>  
